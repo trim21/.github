@@ -12,5 +12,5 @@
 
 ## Environment
 
-- lanaugae version:
+- language version:
 - app/lib/repo version:
