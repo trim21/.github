@@ -12,5 +12,5 @@
 
 ## Environment
 
-- lanaugea version:
-- repo version(maybe sha):
+- lanaugae version:
+- app/lib/repo version:
